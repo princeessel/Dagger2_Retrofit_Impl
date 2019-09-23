@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger2_Retrofit_Impl</string>
+    <string name="albumid">AlbumId</string>
+    <string name="title">Title</string>
+    <string name="photoid">photoId</string>
+    <string name="thumbnail">ThumbNail</string>
+</resources>
